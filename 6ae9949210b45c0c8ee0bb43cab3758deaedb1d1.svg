@@ -1,0 +1,12 @@
+<svg width="39" height="39" viewBox="0 0 39 39" fill="none" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+<g id="Group">
+<path id="Ellipse 74" d="M19.3119 37.3977C29.1083 37.3977 37.0499 29.4561 37.0499 19.6596C37.0499 9.86312 29.1083 1.9215 19.3119 1.9215C9.51537 1.9215 1.57376 9.86312 1.57376 19.6596C1.57376 29.4561 9.51537 37.3977 19.3119 37.3977Z" stroke="url(#paint0_linear_751_2398)" stroke-width="2"/>
+
+</g>
+<defs>
+<linearGradient id="paint0_linear_751_2398" x1="5.35142" y1="1.27503" x2="38.576" y2="3.85389" gradientUnits="userSpaceOnUse">
+<stop stop-color="#4771B5"/>
+<stop offset="1" stop-color="#7ED8C9"/>
+</linearGradient>
+</defs>
+</svg>
